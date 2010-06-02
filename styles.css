@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    background: #2e3436;
+    color: #fff;
+    width: 100%;
+    line-height: 200%;
+}
+
+#world {
+    width: 50%;
+    margin: 100px auto;
+}
+
+h1 {
+    font-size: 72px;
+    font-family: Georgia, Times, serif;
+    font-weight: 200;
+    color: #eee;
+    padding: 0 0 20px 0;
+    margin: 0 0 20px 0;
+    border-bottom: 1px solid #999;
+}
+
+p {
+    font-size: 18px;
+    font-family: "Lucida Grande", Verdana, Helvetica, Arial, sans-serif;  
+    margin-bottom: 20px;
+}
+
+a:link, a:visited {
+    color: #edd400;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
